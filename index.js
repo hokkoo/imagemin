@@ -64,6 +64,14 @@ Imagemin.prototype.use = function (plugin) {
 	return this;
 };
 
+
+/**
+ * Remove all plugins
+ */
+Imagemin.prototype.unset = function(){
+	this.streams.length = 0;
+}
+
 /**
  * Optimize files
  *
