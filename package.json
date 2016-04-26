@@ -1,13 +1,13 @@
 {
-  "name": "imagemin",
+  "name": "imagemin-hokkoo",
   "version": "4.0.0",
   "description": "Minify images",
   "license": "MIT",
-  "repository": "imagemin/imagemin",
+  "repository": "hokkoo/imagemin",
   "author": {
-    "name": "Kevin Mårtensson",
-    "email": "kevinmartensson@gmail.com",
-    "url": "github.com/kevva"
+    "name": "Hokkoo",
+    "email": "1541250020@qq.com",
+    "url": "github.com/hokkoo"
   },
   "maintainers": [
     {
